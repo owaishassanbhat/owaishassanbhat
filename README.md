@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Owais Hassan 👋
 
-<!--
-**owaishassanbhat/owaishassanbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Scientist | Python Learner | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm **Owais Hassan**, a fresher and passionate learner exploring the world of **Data Science, Machine Learning, and Artificial Intelligence**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building my skills through hands-on projects, experimentation, and continuous learning. My goal is to turn data into meaningful insights and eventually build intelligent solutions using machine learning.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Fresher and aspiring **Data Scientist**
+- 🐍 Currently learning **Python for Data Science**
+- 📊 Exploring **Data Analysis & Visualization**
+- 🤖 Learning **Machine Learning**
+- 🧠 Interested in **Artificial Intelligence**
+- 💻 Building projects to strengthen my practical skills
+- 🌱 Always learning something new
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming
+`Python` `SQL`
+
+### 📊 Data Science
+`NumPy` `Pandas` `Matplotlib` `Seaborn`
+
+### 🤖 Machine Learning
+`Scikit-learn`
+
+### 🔧 Tools
+`Jupyter Notebook` `Google Colab` `Git` `GitHub`
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python
+   ↓
+Data Analysis
+   ↓
+Statistics & Mathematics
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Artificial Intelligence
